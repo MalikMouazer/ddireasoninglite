@@ -131,6 +131,18 @@ ddi_by_pk = get_ddi_by_victim_pk(inters)
 
 # Generate multiple interations
 
+# PKs inters
+# ### by victim drug  & Action on Bio A
+
+# PDs inters
+# ### by effect & Action on effect # Later, it will be distributed according
+#                                    to the drugs involved in inters PK Having
+#                                    the same action
+
+#PK & PD
+# ### by effect & Action on effect & Action on Bio A of involved drugs with Pk interactions
+
+
 
 import plotly.graph_objects as go
 
