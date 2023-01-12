@@ -128,6 +128,10 @@ def get_ddi_by_victim_pk(ddis_full):
 ddi_by_effects = get_ddi_by_effects(inters)
 ddi_by_pk = get_ddi_by_victim_pk(inters)
 
+
+# Generate multiple interations
+
+
 import plotly.graph_objects as go
 
 
