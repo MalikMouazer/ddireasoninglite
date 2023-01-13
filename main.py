@@ -133,6 +133,7 @@ ddi_by_pk = get_ddi_by_victim_pk(inters)
 
 # PKs inters
 # ### by victim drug  & Action on Bio A
+#          Action on bioA : (BIO A or A or D --> 1, M or E --> -1)
 
 # PDs inters
 # ### by effect & Action on effect # Later, it will be distributed according
