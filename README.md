@@ -1,4 +1,4 @@
-# ddireasoninglite
+# How to use 
 Database structures :
 The database is in denormalized format. 
 Name of the fields
