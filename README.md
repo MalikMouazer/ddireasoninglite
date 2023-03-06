@@ -15,11 +15,12 @@ This database is in a **denomalized format.**
 
 The CSV file contains *6 columns*
 
-*Column 1:* Substance 1 of the interaction
-*Column 2:* Substance 2 of the interaction
-*Column 3:* The action of the interaction (Increase or decrease of the property). This variable has 2 modalities: ['increase', 'decrease']
-*column 4:* The direction of the interaction. Is it "Substance 1" which acts on "Substance 2", the reverse or the addition of the effects of the two substances. It is a question of determining the "victim drug" and the "perpetrator drug". This variable has 3 modalities: ['1/2', '2/1', '1+2']
+ - *Column 1:* Substance 1 of the interaction
+ - *Column 2:* Substance 2 of the interaction
+ - *Column 3:* The action of the interaction (Increase or decrease of the property). This variable has 2 modalities: ['increase', 'decrease']
+ - *column 4:* The direction of the interaction. Is it "Substance 1" which acts on "Substance 2", the reverse or the addition of the effects of the two substances. It is a question of determining the "victim drug" and the "perpetrator drug". This variable has 3 modalities: ['1/2', '2/1', '1+2']
 
 
-Name of the fields
+
+
 The modalities that are pk and those that are pD 
